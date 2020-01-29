@@ -1,0 +1,1 @@
+This is Starquake's first git project!
